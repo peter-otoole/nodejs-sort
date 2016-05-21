@@ -7,14 +7,16 @@
 		"email" : "peterjotoole@outlook.com",
 		"url" : "https://github.com/peter-otoole"
 	},
-	"engines" : "=>4.4.4",
+	"engines" : {
+		"node" : ">=4.4.4"
+	},
 	"license" : "SEE LICENSE IN LICENSE",
 	"repository" : {
 		"type" : "git",
 		"url" : "https://github.com/peter-otoole/nodejs-sort"
 	},
 	"dependencies" : {
-
+		"is" : "rgrannell1/is"
 	},
 	"devDependencies" : {
 
