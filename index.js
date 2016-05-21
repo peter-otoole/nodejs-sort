@@ -15,4 +15,4 @@ const merge  = require( "./lib/merge" )
 module.exports = {
 	bubble: bubble,
 	merge:  merge
-}
+} 
