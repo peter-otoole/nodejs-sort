@@ -1,4 +1,22 @@
 {
-	"name" : "application-name",
-	"version" : "0.0.1"
+	"name" : "nodejs-sort",
+	"version" : "0.0.1",
+	"description" : "Sorting library implementing common sort algorithms",
+	"author" : {
+		"name" : "Peter O'Toole",
+		"email" : "peterjotoole@outlook.com",
+		"url" : "https://github.com/peter-otoole"
+	},
+	"engines" : "=>4.4.4",
+	"license" : "SEE LICENSE IN LICENSE",
+	"repository" : {
+		"type" : "git",
+		"url" : "https://github.com/peter-otoole/sortjs"
+	},
+	"dependencies" : {
+
+	},
+	"devDependencies" : {
+
+	}
 }
