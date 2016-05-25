@@ -11,8 +11,13 @@
 const bubble = require( "./lib/bubble" )
 const merge  = require( "./lib/merge" )
 
+const comparators = require( "./lib/comparators" )
+
 
 module.exports = {
+	
 	bubble: bubble,
-	merge:  merge
+	merge:  merge,
+	
+	comparators: comparators 
 } 
